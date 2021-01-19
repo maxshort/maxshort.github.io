@@ -20,7 +20,7 @@ author: Max Short
 # Build settings
 markdown: kramdown
 # Remote for github
-remote_theme: ngzhio/jekyll-theme-hamilton/
+remote_theme: "ngzhio/jekyll-theme-hamilton"
 skin: daylight
 
 plugins:
