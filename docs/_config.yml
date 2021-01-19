@@ -20,6 +20,8 @@ author: Max Short
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-hamilton
+# For github
+remote_theme: ngzhio/jekyll-theme-hamilton/
 skin: daylight
 
 # Exclude from processing.
