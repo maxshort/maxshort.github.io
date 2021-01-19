@@ -1,1 +1,3 @@
 *.swp
+# Just in case we build from this dir.
+_site/
