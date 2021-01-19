@@ -16,6 +16,7 @@ gem 'minima', '~> 2.0'
 group :jekyll_plugins do
   gem 'github-pages', '~> 209'
   gem 'jekyll-feed', '~> 0.6'
+  gem 'jekyll-remote-theme', '~> 0.4.2'
   gem 'jekyll-theme-hamilton', '~> 4.0.0'
 end
 
