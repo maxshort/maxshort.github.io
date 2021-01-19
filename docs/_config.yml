@@ -24,6 +24,9 @@ theme: jekyll-theme-hamilton
 remote_theme: ngzhio/jekyll-theme-hamilton/
 skin: daylight
 
+plugins:
+ - jekyll-theme-hamilton
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

@@ -12,6 +12,7 @@ source 'https://rubygems.org'
 gem 'minima', '~> 2.0'
 
 # If you have any plugins, put them here!
+# TODO: GH Pages might not use these.
 group :jekyll_plugins do
   gem 'github-pages', '~> 209'
   gem 'jekyll-feed', '~> 0.6'
