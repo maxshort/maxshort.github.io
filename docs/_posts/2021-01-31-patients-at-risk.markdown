@@ -1,6 +1,6 @@
 # Likes and Dislikes of _Patients at Risk_
 
-Recently, I read [_Patients at Risk_](https://www.amazon.com/Patients-Risk-Practitioner-Physician-Healthcare/dp/1627343164/) a book arguing that non-physicians (Nurse Practitioner, Physician's Assistants, etc.) have too much responsibility in the healthcare industry.
+Recently, I read [_Patients at Risk_](https://www.amazon.com/Patients-Risk-Practitioner-Physician-Healthcare/dp/1627343164/), a book arguing that non-physicians (Nurse Practitioner, Physician's Assistants, etc.) have too much responsibility in the healthcare industry.
 
 I don't have the expertise to evaluate the book in detail so I'll just list some likes and dislikes.
 
